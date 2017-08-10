@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title>我的简历</title>
+	<title>简历</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta http-equiv="Generator" content="CV Maker - https://cvmkr.com/" />
 	<style type="text/css">
