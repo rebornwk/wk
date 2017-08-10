@@ -160,7 +160,6 @@
 			}
 		}
 	</style>
-</head>
 
 <div id="main">
 	<h1 id="title">吴凯</h1>
