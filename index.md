@@ -18,7 +18,7 @@
 							<span class="date r">2016年9月 &mdash; 2017年6月</span>
 								</h3>
 								<div class="clear"> </div>
-								<span class="job_title">Java服务端工程师</span><div class="info">1.参与公司项目需求分析，关键技术难点突破，逻辑流程UML模型图，项目节点时间规划。<div>2.参与电商，社交，打车类项目开发，主要涉及在第三方支付接口开发，Socket通信，redis缓存以及SQL优化。</div><div>3.使用Spring SpringMvc MyBatis 开发服务端项目，HttpClient 调用远端接口（高德地图API 环信IM 极光推送）支付接口逻辑代码处理（微信支付 支付宝支付 SDK集成开发），利用Slf4j灵活配置日志打印系统</div><div>4.使用基于Bootstrap响应式框架Hplus搭建后台服务系统，JQueryFromValidator表单验证数据，熟练使用Ztree，JQuery等前端框架、类库</div><div>5.使用Xshell工具执行Linux命令，配置FTP服务，使用FileZilla上传及部署服务端项目（Linux菜鸟使用者，配置FTP服务，可视化服务，搭建环境就花了三天的时间）。</div><h3 style="font-weight:400;"><br /></h3></div><div class="clear"> </div>
+								<span class="job_title">Java服务端工程师</span><div class="info">1.参与公司项目需求分析，关键技术难点突破，逻辑流程UML模型图，项目节点时间规划;<div>2.参与电商，社交，打车类项目开发，主要涉及在第三方支付接口开发，Socket通信，redis缓存以及SQL优化;</div><div>3.使用Spring SpringMvc MyBatis 开发服务端项目，HttpClient 调用远端接口（高德地图API 环信IM 极光推送）支付接口逻辑代码处理（微信支付 支付宝支付 SDK集成开发），利用Slf4j灵活配置日志打印系统;</div><div>4.使用基于Bootstrap响应式框架Hplus搭建后台服务系统，JQueryFromValidator表单验证数据，熟练使用Ztree，JQuery等前端框架、类库;</div><div>5.使用Xshell工具执行Linux命令，配置FTP服务，使用FileZilla上传及部署服务端项目（Linux菜鸟使用者，配置FTP服务，可视化服务，搭建环境就花了三天的时间）。</div><h3 style="font-weight:400;"><br /></h3></div><div class="clear"> </div>
 								</div>
 							
 								<div class="item">
@@ -26,7 +26,7 @@
 							<span class="date r">2014年1月 &mdash; 2016年7月</span>
 								</h3>
 								<div class="clear"> </div>
-								<span class="job_title">JavaWeb工程师</span><div class="info"><div>1.使用easyUI 开发管理后台系统 主要模块有（用户管理，权限管理，操作日志等）,使用SOAP远程调用webservice服务对接ERP系统,使用RPC框架hessian进行不同系统间的数据同步。</div><div>2.参与公司创业项目开发与测试，主要涉及在管理功能模块，功能性接口开发(Xstream注解方式提供XML数据格式交互接口)，使用Apache POI 、jxl快速生成Excel报表,Highcharts展示图形报表</div>3.成都移动、四川联通积分外包业务开发（积分兑换业务接口逻辑处理）。<div>4.微信，支付宝第三方支付接口开发（移动支付代理商系统，主扫、被扫支付业务）</div><div>5.微信公众号开发</div><div><br /></div></div><div class="clear"> </div>
+								<span class="job_title">JavaWeb工程师</span><div class="info"><div>1.使用easyUI 开发管理后台系统 主要模块有（用户管理，权限管理，操作日志等）,使用SOAP远程调用webservice服务对接ERP系统,使用RPC框架hessian进行不同系统间的数据同步。</div><div>2.参与公司创业项目开发与测试，主要涉及在管理功能模块，功能性接口开发(Xstream注解方式提供XML数据格式交互接口)，使用Apache POI 、jxl快速生成Excel报表,Highcharts展示图形报表;</div>3.成都移动、四川联通积分外包业务开发（积分兑换业务接口逻辑处理）;<div>4.微信，支付宝第三方支付接口开发（移动支付代理商系统，主扫、被扫支付业务）;</div><div>5.微信公众号开发。</div><div><br /></div></div><div class="clear"> </div>
 								</div>
 							
 								<div class="item">
@@ -34,7 +34,7 @@
 							<span class="date r">2013年5 &mdash; 2013年10月</span>
 								</h3>
 								<div class="clear"> </div>
-								<span class="job_title">Java</span><div class="info">1.参与基于Oracle的半自动化OA软件设计，spring + strust2+hibernate作为服务框架，主要涉及模块在用户管理，权限管理，员工管理及日常统计等模块<div>２.日志分析及bug维护，搭建花生壳内网穿透，日常阅读资料学习js,Jquery等前端技术</div></div><div class="clear"> </div>
+								<span class="job_title">Java</span><div class="info">1.参与基于Oracle的半自动化OA软件设计，spring + strust2+hibernate作为服务框架，主要涉及模块在用户管理，权限管理，员工管理及日常统计等模块;<div>２.日志分析及bug维护，搭建花生壳内网穿透，日常阅读资料学习js,Jquery等前端技术。</div></div><div class="clear"> </div>
 								</div>
 							</div>
 		</div>
