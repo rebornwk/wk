@@ -24,7 +24,7 @@
 							<span class="date r">2016年9月 &mdash; 2017年6月</span>
 								</h3>
 								<div class="clear"> </div>
-								<span class="job_title">Java服务端工程师</span><div class="info"><div><span style="font-weight:bold;">工作职责</span>：</div>1.参与公司项目需求分析，关键技术难点突破，逻辑流程UML模型图，项目节点时间规划;<br />2.前后台数据交互以及功能模块开发，功能接口开发；<div>3.项目上线前后的服务器日志监控，bug更新及测试，性能监控；<br /><div>4.主要涉及业务：电商，社交及打车类项目。</div><h3 style="font-weight:400;"><br /></h3></div></div><div class="clear"> </div>
+								<span class="job_title">Java服务端工程师</span><div class="info"><div><span style="font-weight:bold;">工作职责</span>：</div>1.参与公司项目需求分析，关键技术难点突破，逻辑流程UML模型图，项目节点时间规划；<br />2.前后台数据交互以及功能模块开发，功能接口开发；<div>3.项目上线前后的服务器日志监控，bug更新及测试，性能监控；<br /><div>4.主要涉及业务：电商，社交及打车类项目。</div><h3 style="font-weight:400;"><br /></h3></div></div><div class="clear"> </div>
 								</div>
 							
 								<div class="item">
