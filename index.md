@@ -1,18 +1,11 @@
-<html>
-<head>
-	<title>简历</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta http-equiv="Generator" content="CV Maker - https://cvmkr.com/" />
 	<style type="text/css">
 		body {
 			background: #f0f0f0;
 			margin: 0;
 			padding: 0;
-			
 			font-family: 'Helvetica Neue', Helvetica, Arial;
 			line-height: 18px;
 			font-size: 12px;
-			
 			color: #222;
 		}
 		h1, h2, h3, h4 {
@@ -36,7 +29,6 @@
 		a {
 			color: #222;
 		}
-		/* ________________________________________________________ */
 		.rtl {
 			direction: rtl;
 		}
@@ -110,8 +102,6 @@
 			.basic-info .r {
 				float: right;
 			}
-
-		/* education _____________________________ */
 		
 		.section .title {
 			border-bottom: 1px solid #ddd;
@@ -135,7 +125,6 @@
 				margin: 5px 0 5px 0;
 			}
 
-		/* ___ photo ___ */
 		#photo {
 			width: 160px;
 			height: 200px;
@@ -172,15 +161,11 @@
 		}
 	</style>
 </head>
-<body class="lang-zh ">
 
 <div id="main">
-	
 	<h1 id="title">吴凯</h1>
 	<div class="basic-info section">
 					<p class="email"><label>电子邮件<span class="colon">:</span></label> <span class="value">rebornwk@163.com</span></p>
-		
-		
 					<p class="phone"><label>电话<span class="colon">:</span></label> <span class="value">18583675617</span></p>
 		
 					<p class="address full"><label>地址<span class="colon">:</span></label>
@@ -188,10 +173,7 @@
 					四川, 成都				</span>
 			</p>
 				<div class="clear"> </div>
-	</div><!-- basic-info //-->
-
-	
-		
+	</div>
 			<div class="section section-work">
 			<h2 class="title">工作经历</h2>
 			<div class="set">
@@ -244,9 +226,4 @@
 							</div>
 						</div>
 		</div>
-
 </div>
-
-
-</body>
-</html>
