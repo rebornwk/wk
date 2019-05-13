@@ -13,36 +13,50 @@
 			</p>
 				<div class="clear"> </div>
 	</div><!-- basic-info //-->
-
-	
-		
-			<div class="section section-work">
+		<div class="section section-work">
 			<h2 class="title">工作经历</h2>
 			<div class="set">
-								<div class="item">
-									<h3><span class="company l">成都喜来达有限公司</span>
-							<span class="date r">2016年9月 &mdash; 2017年6月</span>
-								</h3>
-								<div class="clear"> </div>
-								<span class="job_title">Java服务端工程师</span><div class="info"><div><span style="font-weight:bold;">工作职责</span>：</div>1.参与公司项目需求分析，关键技术难点突破，逻辑流程UML模型图，项目节点时间规划；<br />2.前后台数据交互以及功能模块开发，功能接口开发；<div>3.项目上线前后的服务器日志监控，bug更新及测试，性能监控；<br /><div>4.主要涉及业务：电商，社交及打车类项目。</div></div></div><div class="clear"> </div>
-								</div>
-							
-								<div class="item">
-									<h3><span class="company l">成都市思博睿科技有限公司</span>
-							<span class="date r">2014年1月 &mdash; 2016年7月</span>
-								</h3>
-								<div class="clear"> </div>
-								<span class="job_title">JavaWeb工程师</span><div class="info"><div><span style="font-weight:bold;">工作职责</span>：</div><div>1.参与公司业务需求分析以及项目开发前后的商务对接；<br />2.项目数据采集及处理、对外接口开发及调试、服务器部署；<div>3.采集服务器日志并分析，处理异常信息，反馈客户处理结果；<br /><div>4.业务服务范围：移动联通积分业务、第三方公众号开发、移动支付代理商、积分电子券。</div></div></div></div><div class="clear"> </div>
-								</div>
-							
-								<div class="item">
-									<h3><span class="company l">独万千科技</span>
-							<span class="date r">2013年5月&mdash; 2013年10月</span>
-								</h3>
-								<div class="clear"> </div>
-								<span class="job_title">Java</span><div class="info"><div><span style="font-weight:bold;">工作职责</span>：</div><div>1.负责公司半自动化OA软件开发及维护,处理异常数据；<br />2.搭建花生壳内网穿透，部署外网环境。<div><br /></div></div></div><div class="clear"> </div>
-								</div>
-							</div>
+				<div class="item">
+					<h3><span class="company l">陇海集团</span>
+						<span class="date r">2017年10月 &mdash; 2019年5月</span>
+					</h3>
+				<div class="clear"> </div>
+					<span class="job_title">Java开发工程师</span>
+					<div class="info">
+						<div><span style="font-weight:bold;">工作职责</span>：</div>
+						1.参与集团的信息化建设，需求调研，分析，并进行功能开发；<br />
+						2.负责集团的会员平台的搭建，招标采购平台搭建，OA系统集成；
+						<div>3.负责各平台CAS集成，实现单点登录<br />
+						<div>4.文件服务器搭建，应用部署，域名备案以及应用服务器监控及维护</div>
+						</div>
+					</div>
+					<div class="clear"> </div>
+				</div>
+			
+				<div class="item">
+					<h3><span class="company l">成都喜来达有限公司</span>
+						<span class="date r">2016年9月 &mdash; 2017年6月</span>
+					</h3>
+				<div class="clear"> </div>
+					<span class="job_title">Java服务端工程师</span><div class="info"><div><span style="font-weight:bold;">工作职责</span>：</div>1.参与公司项目需求分析，关键技术难点突破，逻辑流程UML模型图，项目节点时间规划；<br />2.前后台数据交互以及功能模块开发，功能接口开发；<div>3.项目上线前后的服务器日志监控，bug更新及测试，性能监控；<br /><div>4.主要涉及业务：电商，社交及打车类项目。</div></div></div><div class="clear"> </div>
+				</div>
+			
+				<div class="item">
+					<h3><span class="company l">成都市思博睿科技有限公司</span>
+						<span class="date r">2014年1月 &mdash; 2016年7月</span>
+					</h3>
+				<div class="clear"> </div>
+					<span class="job_title">JavaWeb工程师</span><div class="info"><div><span style="font-weight:bold;">工作职责</span>：</div><div>1.参与公司业务需求分析以及项目开发前后的商务对接；<br />2.项目数据采集及处理、对外接口开发及调试、服务器部署；<div>3.采集服务器日志并分析，处理异常信息，反馈客户处理结果；<br /><div>4.业务服务范围：移动联通积分业务、第三方公众号开发、移动支付代理商、积分电子券。</div></div></div></div><div class="clear"> </div>
+				</div>
+			
+				<div class="item">
+					<h3><span class="company l">独万千科技</span>
+						<span class="date r">2013年5月&mdash; 2013年10月</span>
+					</h3>
+				<div class="clear"> </div>
+				<span class="job_title">Java</span><div class="info"><div><span style="font-weight:bold;">工作职责</span>：</div><div>1.负责公司半自动化OA软件开发及维护,处理异常数据；<br />2.搭建花生壳内网穿透，部署外网环境。<div><br /></div></div></div><div class="clear"> </div>
+				</div>
+			</div>
 		</div>
 			<div class="section section-1502352489918">
 			<h2 class="title">项目经验</h2>
