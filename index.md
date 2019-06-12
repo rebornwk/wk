@@ -5,7 +5,7 @@
 					<p class="email"><label>电子邮件<span class="colon">:</span></label> <span class="value">rebornwk@163.com</span></p>
 		
 		
-					<p class="phone"><label>电话<span class="colon">:</span></label> <span class="value">13438025617</span></p>
+					<p class="phone"><label>电话<span class="colon">:</span></label> <span class="value">18583675617</span></p>
 		
 					<p class="address full"><label>地址<span class="colon">:</span></label>
 				<span class="value">
