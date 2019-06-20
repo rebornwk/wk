@@ -26,7 +26,7 @@
 						<div><span style="font-weight:bold;">工作职责</span>：</div>
 						1.参与集团的信息化建设，需求调研，分析，并进行功能开发；<br />
 						2.负责集团的会员平台的搭建，招标采购平台搭建，OA系统集成；
-						<div>3.负责各平台CAS集成，实现用户统一认证；<br />
+						<div>3.负责各平台CAS集成，实现用户统一认证<br />
 						<div>4.文件服务器搭建，应用部署，域名备案以及应用服务器监控及维护</div>
 						</div>
 					</div>
@@ -47,7 +47,6 @@
 					</h3>
 				<div class="clear"> </div>
 					<span class="job_title">JavaWeb工程师</span><div class="info"><div><span style="font-weight:bold;">工作职责</span>：</div><div>1.参与公司业务需求分析以及项目开发前后的商务对接；<br />2.项目数据采集及处理、对外接口开发及调试、服务器部署；<div>3.采集服务器日志并分析，处理异常信息，反馈客户处理结果；<br /><div>4.业务服务范围：移动联通积分业务、第三方公众号开发、移动支付代理商、积分电子券。</div></div></div></div><div class="clear"> </div>
-				</div>
 				</div>
 			</div>
 		</div>
