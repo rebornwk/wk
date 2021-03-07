@@ -168,8 +168,6 @@
 									<p>3.定时处理三方对账单信息，完善支付数据，统计支付数据，生成图形报表；</p>
 									<p>技术栈: SpringMVC,Mybatis,highcharts.</p><p><br /></p>
 								
-						</div>
-		</div>
 			<div class="section section-1502366012726">
 			<h2 class="title">自我评价</h2>
 			<div class="set">
@@ -207,7 +205,6 @@
 					<span class="info"><div><span style="font-weight:bold;">2014/11</span></div><span style="font-weight:bold;">网络安全初级管理员证书</span></span>
 				</div>
 			</div>
-		</div>
 		<!--<div class="section section-interests">
 			<h2 class="title">兴趣爱好</h2>
 			<div class="set">
